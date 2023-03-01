@@ -55,11 +55,11 @@ module.exports = {
       name: 'GitHub',
       link: 'https://github.com/IAHAI/onedrive-1',
       
-    },    {
-      name: 'Telegram',
-      link: '',
+    },   //  {
+//       name: 'Telegram',
+//       link: '',
       
-    },
+//     },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
